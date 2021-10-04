@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32892592407",
+    "firebase_url": "https://music-realtime-default-rtdb.firebaseio.com",
+    "project_id": "music-realtime",
+    "storage_bucket": "music-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32892592407:android:c5e80e96e030068ddfd752",
+        "android_client_info": {
+          "package_name": "suriyon.cs.ubru.musicrealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32892592407-v8kj18hb7uo1fpckohnqd2ldqs4t4nf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8BMBbbXbYNOgum--5yCOJuGmixJSsXgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32892592407-v8kj18hb7uo1fpckohnqd2ldqs4t4nf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
